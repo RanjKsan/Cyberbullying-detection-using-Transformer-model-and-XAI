@@ -1,9 +1,4 @@
 # Cyberbullying-detection-using-Transformer-model-and-XAI
-📢
-# Cyberbullying Detection with Explainable AI
-
-🚀
-# Overview
 
 Cyberbullying is a growing concern in online platforms, affecting individuals of all ages and backgrounds. Harmful online interactions can lead to severe psychological distress, making it crucial to detect and mitigate cyberbullying effectively.
 
